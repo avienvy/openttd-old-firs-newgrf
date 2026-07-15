@@ -1,7 +1,10 @@
-Binary file for FIRS Industries 4 newgrf which now get unlisted from Online Content
+Binary files of older version FIRS Industries newgrf for OpenTTD which now get unlisted from Online Content
 
-How to use:
-Download the file from Release page
-put it on your /openttd/newgrf directory (linux ~/.local/share/openttd/newgrf)
+## How to use:
+**1. Download the file from [Release page](https://github.com/avienvy/openttd-firs-4/releases/tag/release)**
 
-source: https://github.com/andythenorth/firs/releases/tag/4.16.0
+**2. Put it on your /openttd/newgrf directory** <br>
+_(for linux ~/.local/share/openttd/newgrf)_<br>
+_(for windows /Documents/openttd, if I'm not mistaken)_
+
+source: https://github.com/andythenorth/firs
